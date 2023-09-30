@@ -4,6 +4,9 @@ The dataset is taken from kaggle.
 # Dataset Source : https://www.kaggle.com/datasets/START-UMD/gtd
 # Technologies used :
 1.Python
+
 2.Pandas
+
 3.Matplotlib
+
 4.Statistics
